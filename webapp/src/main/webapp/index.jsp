@@ -1,1 +1,1 @@
-Hello, World from automation!
+Hello, World from Scripted pipeline automation
